@@ -1,5 +1,5 @@
 # Johnnys_GIT_MD_Guide
-I found I had to go to multiple sites to get GitHub markdown info to design my Code standards with so I pulled them together here
+I found I had to go to multiple sites to get Git markdown info to design my Code standards with so I pulled them together here
 # What is Markdown?
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
